@@ -1,12 +1,12 @@
-Store
+Classified
 =====
-Plugin Name: Sparks Store
+Plugin Name: Classified
 
 Plugin URI: //Not yet developed
 
-GitHub URI: https://github.com/starverte/sparks-events.git
+GitHub URI: https://github.com/starverte/sparks-classified.git
 
-Description: Part of the Sparks Framework. A plugin that allows for easy e-commerce development. 
+Description: Part of the Sparks Framework. A plugin that creates listings.
 
 Author: starverte
 
@@ -21,7 +21,7 @@ the creative process of website development within WordPress. Often times to sta
 With the Sparks Framework it is the same way. 'Flint' (the core theme) and 'Steel' (the core plugin) makeup the foundation
 of the framework. Then, additional child themes and plugins extend the functionality and user experience.
 
-This file is part of Sparks Store.
+This file is part of Classified.
 
     Sparks Store is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

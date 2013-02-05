@@ -8,7 +8,7 @@ Author: Star Verte LLC
 Author URI: http://www.starverte.com
 License: GPL2 or later
 
-  Copyright 2012  Star Verte LLC  (email : info@starverte.com)
+  Copyright 2013  Star Verte LLC  (email : info@starverte.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
